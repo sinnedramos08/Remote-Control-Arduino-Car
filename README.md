@@ -22,7 +22,7 @@ Both the controller and the Arduino car utilized the NRF24L01 wireless module fo
 
 ## Software Setup
 - Arduino IDE: Download and install from [Arduino's official website](https://www.arduino.cc/en/software).
-- Libraries: Ensure you have the necessary libraries installed, such as RF24 for the NRF24L01 module. You can install libraries using this [link](https://github.com/nRF24/RF24)
+- Libraries: Ensure you have the necessary libraries installed, such as RF24 for the NRF24L01 module. You can install using this [link](https://github.com/nRF24/RF24)
 
 ## Wiring Diagram for Joystick Remote Controller
 ![Joystick Schematic](https://github.com/user-attachments/assets/66091d25-dc25-4db1-84fe-d9929f72de23)
@@ -47,6 +47,12 @@ NRF24L01 to Arduino Nano Interface:
 4. IN2 -> D3
 5. IN3 -> D4
 6. IN4 -> D5
+
+## Code Explanation
+
+### Joystick Remote Controller (Receiver)
+
+### Arduino Car (Transmitter)
 
 ## Joystick Remote Controller on Breadboard
 ![viber_image_2024-07-16_13-36-25-386](https://github.com/user-attachments/assets/0007425b-7f91-4de2-a9e7-56f8799bc230)
