@@ -1,10 +1,17 @@
 # Remote-Control-Arduino Car
+
+This project features codes used for the remote-controlled Arduino 2WD Car, utilizing NRF24L01 as the wireless transceiver module and the L298N for the motor control driver. 
+
+- **Receiver**: contains the code for the Joystick Remote Controller
+- **Transmitter**: contains code uploaded for the Arduino Car.
+
+Both the controller and the Arduino car utilized the NRF24L01 wireless module for wireless communication. The L298N motor driver controls the two DC motors, allowing for forward, backward, left, and right movements. 
+
 ## Hardware Components used for Joystick Remote Controller
 1. Arduino Nano
 2. NRF24L01 for transmitting joystick control signals
 3. Dual Axis Joystick Module
 4. Battery or Powerbank (5 VDC)
-
 
 ## Hardware Components used for Arduino Car
 1. Arduino Nano
@@ -14,7 +21,7 @@
 5. 2 18650 Lithium-ion 3.7V battery
 
 ## Libraries: 
-https://github.com/nRF24/RF24
+https://github.com/nRF24/RF24, Documentation: https://nrf24.github.io/RF24/
 
 ## Wiring Diagram for Joystick Remote Controller
 ![Joystick Schematic](https://github.com/user-attachments/assets/66091d25-dc25-4db1-84fe-d9929f72de23)
