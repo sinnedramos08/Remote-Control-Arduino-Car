@@ -20,8 +20,9 @@ Both the controller and the Arduino car utilized the NRF24L01 wireless module fo
 4. 2WD Robot Car Chassis
 5. 2 18650 Lithium-ion 3.7V battery
 
-## Libraries: 
-https://github.com/nRF24/RF24, Documentation: https://nrf24.github.io/RF24/
+## Software Setup
+- Arduino IDE: Download and install from [Arduino's official website](https://www.arduino.cc/en/software).
+- Libraries: Ensure you have the necessary libraries installed, such as RF24 for the NRF24L01 module. You can install libraries using this [link](https://github.com/nRF24/RF24)
 
 ## Wiring Diagram for Joystick Remote Controller
 ![Joystick Schematic](https://github.com/user-attachments/assets/66091d25-dc25-4db1-84fe-d9929f72de23)
