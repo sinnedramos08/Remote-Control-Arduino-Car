@@ -30,6 +30,16 @@ NRF24L01 to Arduino Nano Interface:
 4. MOSI -> D11
 5. MISO -> D12
 
+## Wiring Diagram for L298N Motor Driver
+![L298N Schematic](https://github.com/user-attachments/assets/43abd3d0-466a-4b76-b3ff-d04c952eee42)
+
+1. ENA -> D9
+2. ENB -> D6
+3. IN1 -> D2
+4. IN2 -> D3
+5. IN3 -> D4
+6. IN4 -> D5
+
 ## Joystick Remote Controller on Breadboard
 ![viber_image_2024-07-16_13-36-25-386](https://github.com/user-attachments/assets/0007425b-7f91-4de2-a9e7-56f8799bc230)
 
