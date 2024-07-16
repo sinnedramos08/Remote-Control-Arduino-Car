@@ -16,6 +16,13 @@
 ## Libraries: 
 https://github.com/nRF24/RF24
 
+## Wiring Diagram for Joystick Remote Controller
+![Joystick Schematic](https://github.com/user-attachments/assets/66091d25-dc25-4db1-84fe-d9929f72de23)
+
+Joystick to Arduino Nano Interface:
+VRx -> A4
+VRy -> A1
+
 ## Joystick Remote Controller on Breadboard
 ![viber_image_2024-07-16_13-36-25-386](https://github.com/user-attachments/assets/0007425b-7f91-4de2-a9e7-56f8799bc230)
 
