@@ -59,3 +59,7 @@ NRF24L01 to Arduino Nano Interface:
 
 ## Arduino Car Prototype
 ![viber_image_2024-07-16_13-36-25-439](https://github.com/user-attachments/assets/0cf4a7f4-6c04-4f82-a708-6524077ae677)
+
+## References and Resources
+- [In-Depth Interface L298N DC Motor Driver Module to Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+- [nRF24L01 Library Documentation](https://nrf24.github.io/RF24/)
