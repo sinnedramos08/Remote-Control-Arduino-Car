@@ -48,12 +48,6 @@ NRF24L01 to Arduino Nano Interface:
 5. IN3 -> D4
 6. IN4 -> D5
 
-## Code Explanation
-
-### Joystick Remote Controller (Receiver)
-
-### Arduino Car (Transmitter)
-
 ## Joystick Remote Controller on Breadboard
 ![viber_image_2024-07-16_13-36-25-386](https://github.com/user-attachments/assets/0007425b-7f91-4de2-a9e7-56f8799bc230)
 
